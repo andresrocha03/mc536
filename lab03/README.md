@@ -5,7 +5,7 @@
 * Mariano Cho- 230797
 
 
-## Modelo Conceitual UML Revisado
+## Modelo Conceitual ER Revisado
 
 <img src="images/ER_lab03.png" width="400px" height="auto">
 
