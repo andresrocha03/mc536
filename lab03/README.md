@@ -5,10 +5,15 @@
 * Mariano Cho- 230797
 
 
-## Modelo Conceitual ER Revisado
+## Modelo Conceitual ER
+
+<img src="images/ER_lab02.png" width="400px" height="auto">
+
+*Diagrama ER Original*
 
 <img src="images/ER_lab03.png" width="400px" height="auto">
 
+*Diagrama ER Revisado*
 
 ## Mapeamento para o Modelo Relacional
 ~~~
