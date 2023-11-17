@@ -9,6 +9,4 @@
 
 <img src="images/LAB07A.png" width="400px" height="auto">
 
-*Diagrama ER Original*
-
 <img src="images/LAB07B.png" width="400px" height="auto">
