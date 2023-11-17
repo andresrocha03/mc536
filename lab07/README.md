@@ -5,7 +5,7 @@
 * Mariano Cho- 230797
 
 
-## Modelo Conceitual ER
+## LAB07
 
 <img src="images/LAB07A.png" width="400px" height="auto">
 
