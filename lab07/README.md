@@ -8,8 +8,6 @@
 <img src="images/LAB07A.png" width="400px" height="auto">
 
 ## Perguntas de Pesquisa/Análise
-
-> Liste aqui as três perguntas de pesquisa/análise
-> * Quais os ingredientes mais/menos populares (que aparecem em mais/menos receitas)?
-> * Um determinado ingrediente X é mais utilizado cru, cozido ou refinado?
-> * Quais receitas apresentam pelo menos metade de seu peso composto por um determinado CGN (grupo de ingredientes)?
+ * Quais os ingredientes mais/menos populares (que aparecem em mais/menos receitas)?
+ * Um determinado ingrediente X é mais utilizado cru, cozido ou refinado?
+ * Quais receitas apresentam pelo menos metade de seu peso composto por um determinado CGN (grupo de ingredientes)?
