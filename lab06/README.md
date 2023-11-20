@@ -1,3 +1,11 @@
+# Equipe PLAY
+
+# Subgrupo ANCHO
+* André Santos Rocha - 235887
+* Mariano Cho - 230797
+
+## Tarefa de Cypher sobre Patologias, Medicamentos e Efeitos Colaterais
+
 ## Exercício
 
 Faça a projeção em relação a Patologia, ou seja, conecte patologias que são tratadas pela mesma droga.
@@ -11,14 +19,6 @@ ON MATCH SET r.weight=r.weight+1
 ~~~
 
 # Trabalhando com Efeitos Colaterais
-
-Considere o seguinte arquivo que indica um conjunto de pessoas (identificadas por código) e as drogas que elas usam:
-
-[https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/drug-use.csv]
-
-Considere este outro arquivo que indica as mesmas pessoas e efeitos colaterais que elas experimentaram:
-
-[https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/sideeffect.csv]
 
 ## Exercício
 
@@ -53,7 +53,7 @@ Que tipo de análise interessante pode ser feita com esse grafo?
 Proponha um tipo de análise e escreva uma sentença em Cypher que realize a análise.
 
 ### Resolução
-É possível analisar quais são os sintomas mais/menos comuns gerados por um dado medicamento. Segue a setença em cypher para observar os mais utilizados, o valor de 50 foi escolhido arbitrariamente como um limite significativo para determinar se o sintoma é altamente comum ou não.  
+É possível analisar quais são os sintomas mais/menos comuns gerados por um dado medicamento. Segue a setença em cypher para observar os mais utilizados, o valor de 50 foi escolhido arbitrariamente como um limite significativo para determinar se o sintoma é altamente comum ou não.
 
 ~~~cypher
 MATCH (d)-[g:Generates]->(s)
