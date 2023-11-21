@@ -5,7 +5,8 @@
 
 ## Modelo Lógico do Banco de Dados de Grafos
 > Primeiro realizaremos uma transformação. Faremos uma projeção, transformando nosso grafo bipartido em um homogêneo, tornando ingredientes como propriedade das arestas e receitas como os nós, conectando receitas que compartilham ao menos 3 ingredientes. Com isso, tornamos o grafo mais adequado para um mapeamento por coexistência, identificando em quais receitas os ingredientes mais aparecem. 
-><img src="images/LAB08.png" width="400px" height="auto">
+>
+> <img src="images/LAB08.png" width="400px" height="auto">
 
 ## Perguntas de Pesquisa/Análise Combinadas e Respectivas Análises
 
