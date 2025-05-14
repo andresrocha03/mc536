@@ -1,3 +1,2 @@
-# mc536_ANCHO
-* André Santos Rocha - 235887
-* Mariano Cho- 230797
+# mc536
+Exercises for learning more about database analysis
